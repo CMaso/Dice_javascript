@@ -1,0 +1,25 @@
+div.container {
+	width:200px;
+	clear:both;
+}
+
+div.leftCol {
+	width:75px;
+	float:left;
+}
+
+div.rightCol {
+	width:75px;
+	float:right;
+}
+
+div.clear {
+	padding-top:10px;
+	clear:both;
+	width:550px;
+}
+
+div.right {
+	clear:both;
+	float:right;
+}

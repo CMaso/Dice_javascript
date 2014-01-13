@@ -1,0 +1,1 @@
+This is a simple web app to similate rolling n 6-sided dice 6 times, using javascript, css, and html.
